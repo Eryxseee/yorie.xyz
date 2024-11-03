@@ -1,0 +1,64 @@
+Uri: https://api.fontshare.com/v2/css?f[]=satoshi@1&f[]=array@400&display=swap
+File Name: C:\Downloaded Web Sites\valhala.lol\v2\css
+Content Type: text/css
+
+Uri: https://cdn.fontshare.com/wf/4QBZHM3FOPYBI67YBLLWZV6ZYIUQTKEE/RXSUFPNEA6YXGQDMHMP3OODY6UWXRJBM/C6VM2RT4EU2NNT5XZWVYHR7WOIOGM4EU.ttf
+File Name: C:\Downloaded Web Sites\valhala.lol\wf\4QBZHM3FOPYBI67YBLLWZV6ZYIUQTKEE\RXSUFPNEA6YXGQDMHMP3OODY6UWXRJBM\C6VM2RT4EU2NNT5XZWVYHR7WOIOGM4EU.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.fontshare.com/wf/4QBZHM3FOPYBI67YBLLWZV6ZYIUQTKEE/RXSUFPNEA6YXGQDMHMP3OODY6UWXRJBM/C6VM2RT4EU2NNT5XZWVYHR7WOIOGM4EU.woff
+File Name: C:\Downloaded Web Sites\valhala.lol\wf\4QBZHM3FOPYBI67YBLLWZV6ZYIUQTKEE\RXSUFPNEA6YXGQDMHMP3OODY6UWXRJBM\C6VM2RT4EU2NNT5XZWVYHR7WOIOGM4EU.woff
+Content Type: font/woff
+
+Uri: https://cdn.fontshare.com/wf/4QBZHM3FOPYBI67YBLLWZV6ZYIUQTKEE/RXSUFPNEA6YXGQDMHMP3OODY6UWXRJBM/C6VM2RT4EU2NNT5XZWVYHR7WOIOGM4EU.woff2
+File Name: C:\Downloaded Web Sites\valhala.lol\wf\4QBZHM3FOPYBI67YBLLWZV6ZYIUQTKEE\RXSUFPNEA6YXGQDMHMP3OODY6UWXRJBM\C6VM2RT4EU2NNT5XZWVYHR7WOIOGM4EU.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.fontshare.com/wf/NWBQYJIM7GCZ5XWD7D26ARB3VDY55ZRT/K63EV2KZIGKLE7RANQ2U42S6SVHU5RJ7/X6XYTKIVDUW7GZTZPZNN4EUM5KH54KHF.ttf
+File Name: C:\Downloaded Web Sites\valhala.lol\wf\NWBQYJIM7GCZ5XWD7D26ARB3VDY55ZRT\K63EV2KZIGKLE7RANQ2U42S6SVHU5RJ7\X6XYTKIVDUW7GZTZPZNN4EUM5KH54KHF.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.fontshare.com/wf/NWBQYJIM7GCZ5XWD7D26ARB3VDY55ZRT/K63EV2KZIGKLE7RANQ2U42S6SVHU5RJ7/X6XYTKIVDUW7GZTZPZNN4EUM5KH54KHF.woff
+File Name: C:\Downloaded Web Sites\valhala.lol\wf\NWBQYJIM7GCZ5XWD7D26ARB3VDY55ZRT\K63EV2KZIGKLE7RANQ2U42S6SVHU5RJ7\X6XYTKIVDUW7GZTZPZNN4EUM5KH54KHF.woff
+Content Type: font/woff
+
+Uri: https://cdn.fontshare.com/wf/NWBQYJIM7GCZ5XWD7D26ARB3VDY55ZRT/K63EV2KZIGKLE7RANQ2U42S6SVHU5RJ7/X6XYTKIVDUW7GZTZPZNN4EUM5KH54KHF.woff2
+File Name: C:\Downloaded Web Sites\valhala.lol\wf\NWBQYJIM7GCZ5XWD7D26ARB3VDY55ZRT\K63EV2KZIGKLE7RANQ2U42S6SVHU5RJ7\X6XYTKIVDUW7GZTZPZNN4EUM5KH54KHF.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.googleapis.com/css2?family=Outfit:wght@200;400;600;800&display=swap
+File Name: C:\Downloaded Web Sites\valhala.lol\css2
+Content Type: text/css
+
+Uri: https://valhala.lol/
+File Name: C:\Downloaded Web Sites\valhala.lol\index.htm
+Content Type: text/html
+
+Uri: https://valhala.lol/$
+File Name: C:\Downloaded Web Sites\valhala.lol\$.html
+Content Type: text/html
+
+Uri: https://valhala.lol/discord
+File Name: C:\Downloaded Web Sites\valhala.lol\discord.html
+Content Type: text/html
+
+Uri: https://valhala.lol/fonts/werebeast.ttf
+File Name: C:\Downloaded Web Sites\valhala.lol\fonts\werebeast.ttf
+Content Type: font/ttf
+
+Uri: https://valhala.lol/Reserve
+File Name: C:\Downloaded Web Sites\valhala.lol\Reserve.html
+Content Type: text/html
+
+Uri: https://valhala.lol/rich
+File Name: C:\Downloaded Web Sites\valhala.lol\rich.html
+Content Type: text/html
+
+Uri: https://valhala.lol/style.css
+File Name: C:\Downloaded Web Sites\valhala.lol\style.css
+Content Type: text/css
+
+Uri: https://valhala.lol/userbase
+File Name: C:\Downloaded Web Sites\valhala.lol\userbase.html
+Content Type: text/html
+
